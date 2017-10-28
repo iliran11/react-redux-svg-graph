@@ -1,5 +1,7 @@
 
-![screenshot](https://raw.githubusercontent.com/amitmerchant1990/electron-markdownify/master/img/markdownify.gif)
+## Preview
+
+[Live Chart](https://iliran11.github.io/)
 
 ## How To Use
 
